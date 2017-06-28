@@ -1,2 +1,3 @@
 # github-battle
-Learn react
+Learn react  
+https://online.reacttraining.com
